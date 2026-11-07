@@ -41,3 +41,4 @@ git clone https://github.com/shenchuchu91-hub/dotfiles.git ~/dotfiles && cd ~/do
 ## 🔗 相关配置仓库
 
 - 配置文件与源码主体：[shenchuchu91-hub/dotfiles](https://github.com/shenchuchu91-hub/dotfiles)
+- 全局安全守则与免责规范：[shenchuchu91-hub/disclaimer](https://github.com/shenchuchu91-hub/disclaimer)
